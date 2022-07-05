@@ -8,5 +8,6 @@
 
 不传`reset`参数的情况下，默认使用该项目[list.txt](https://github.com/koharubiyori/TrackerListsBale/blob/master/list.txt)文件中定义的订阅源。
 
+* `divider`：返回的tracker之间的分隔字符，默认为换行符(`\n`)
 * `append`：要追加的订阅源，多个订阅源之间以逗号分割。
 * `reset`：覆盖list.txt文件中的订阅源，多个订阅源之间以逗号分割。
