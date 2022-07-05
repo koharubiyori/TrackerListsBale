@@ -1,0 +1,3 @@
+https://trackerslist.com/all.txt
+https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
